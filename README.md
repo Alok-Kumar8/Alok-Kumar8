@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alok Kumar
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me Gmail: princek1812@gmail.com
 
 <!---
